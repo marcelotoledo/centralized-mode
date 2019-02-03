@@ -36,7 +36,7 @@ With centralized-mode:
 
 ## How to install
 
-1. Close the repo in your machine
+1. Clone the repo in your machine
 2. Load the file using  `(load-file "~/location/centralized-mode.el")`
 3. To activate in a buffer just run M-x centralized-mode (I have it bound to key
    combination)
