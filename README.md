@@ -18,6 +18,16 @@ around.
 This unfinished work is an attempt to create a minor mode, simple enough to do
 the job without losing speed when moving cursor.
 
+## Screenshots
+
+Without centralized-mode:
+
+![screenshot](https://github.com/marcelotoledo/centralized-mode/raw/master/screenshots/before.png)
+
+With centralized-mode:
+
+![screenshot](https://github.com/marcelotoledo/centralized-mode/raw/master/screenshots/centralized-mode.png)
+
 ## Install
 
 1. Close the repo in your machine
