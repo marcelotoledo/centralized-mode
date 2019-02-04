@@ -38,7 +38,7 @@
   (set-window-margins nil nil)
   (let* ((current-size (window-max-chars-per-line))
          (new-size (/ (- current-size centralized-margin) 2)))
-    (set-window-margins (get-buffer-window) 100 100)))
+    (set-window-margins (get-buffer-window) new-size new-size)))
 
 ;;;###autoload
 (define-minor-mode centralized-mode
