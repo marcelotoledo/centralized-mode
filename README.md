@@ -3,11 +3,9 @@
 
 ## Why?
 
-When working with large monitors, if you don't set a margin for your window in
-Emacs things will be placed too far left. 
+When working with large monitors, things are placed too far left and gets very uncomfortable, specially if you're with a fullscreen and only one buffer open.
 
-Would be nice to have a solution that could place things in a centralized area
-that is closer to your position (if you sit in the middle of the monitor).
+Would be nice to have a solution that could place things in a centralized area that is closer to your position (if you sit in the middle of the monitor).
 
 ## What?
 
